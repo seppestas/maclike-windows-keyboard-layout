@@ -46,7 +46,7 @@ Differences vs the MacOS alt layout:
 Installation and usage
 ----------------------
 
-- Download the latest version of the keyboard package installer. TODO: add link to Github releases.
+- Download maclike.zip in the [latest version of the keyboard package installer][release].
 - Run setup.exe and restart Windows.
 - Set up the keyboard on Windows. E.g on Windows 10:
   - Navigate to settings > Time & Language > Language
@@ -86,4 +86,5 @@ For more info see ["How do I remove a keyboard layout" on MSDN][remove-layout].
 
 [MacOS dead keys]: https://support.apple.com/en-ie/guide/mac-help/mh27474/mac
 [Microsoft Keyboard Layout Creator]: https://www.microsoft.com/en-us/download/details.aspx?id=22339
+[release]: https://github.com/seppestas/maclike-windows-keyboard-layout/releases/latest
 [remove-layout]: https://social.msdn.microsoft.com/Forums/ie/en-US/6e143a03-3fda-43fd-831b-2c3056d732b1/how-do-i-remove-a-keyboard-layout
