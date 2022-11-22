@@ -25,7 +25,7 @@ be typed by double pressing the dead key, e.g AtlGr+u AtlGr+u wil result in ú.
 
 ### Second layer, to use hold Shift+AltGr or Shift+Alt+Ctrl
 
-![Shift-AltGr layer](img\mac-ansiShftAltGr.jpg)
+![Shift-AltGr layer](img/mac-ansiShftAltGr.jpg)
 
 ### Differences vs the MacOS alt layout:
 
@@ -51,7 +51,7 @@ wil result in ú.
 
 ### Second layer, to use hold Shift+AltGr or Shift+Alt+Ctrl
 
-![Shift-AltGr layer](img\mac-isoShftAltGr.jpg)
+![Shift-AltGr layer](img/mac-isoShftAltGr.jpg)
 
 ### Differences vs the MacOS alt layout:
 
