@@ -38,7 +38,7 @@ be typed by double pressing the dead key, e.g AtlGr+u AtlGr+u wil result in ú.
 Maclike dead keys for ISO keyboards
 -----------------------------------
 
-A layout for ANSI (US style) keyboards. Primarily targetting HP "UK English"
+A layout for ISO (UK style) keyboards. Primarily targetting HP "UK English"
 keyboards.
 
 This layout is based on the English-UK keyboard layout. All default acute
