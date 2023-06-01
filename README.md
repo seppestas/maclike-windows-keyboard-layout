@@ -122,6 +122,15 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts
 
 But it's best to double check the "Layout Text" value before removal.
 
+On Windows 11 (or possibly depending on some Windows policy) it looks like the
+dll file is not removed upon uninstalation, preventing a new version from being
+installed. Removing the dll file manualy after uninstalation resolves this.
+
+The dll file is called mac-ansi.dll or mac-iso.dll and is typically located in
+C:\Windows\System32.
+
+Possibly, this is caused by the keyboard layout still being used.
+
 For more info see ["How do I remove a keyboard layout" on MSDN][remove-layout].
 
 [MacOS dead keys]: https://support.apple.com/en-ie/guide/mac-help/mh27474/mac
